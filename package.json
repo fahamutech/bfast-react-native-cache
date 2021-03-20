@@ -1,0 +1,15 @@
+{
+  "name": "bfast-react-native-cache",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "src/index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.14.1"
+  }
+}
